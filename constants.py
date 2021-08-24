@@ -1,0 +1,1 @@
+threshold_distance = 10000 #min distance needed between embeddings to say they are potentially the same whale. og value = loss margin value
